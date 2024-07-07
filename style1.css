@@ -1,0 +1,50 @@
+body {
+  margin: 0 auto; /* Center the body horizontally */
+  font-family: Arial, sans-serif;
+  padding: 28px;
+    text-align: center
+}
+
+header {
+  background-color: #770d0d; /* Lighter background for all three */
+  padding: 10px;
+  text-align: center; /* Center text for all three */
+}
+
+nav {
+  background-color: rgb(141, 201, 184); /* Lighter background for all three */
+  padding: 10px;
+  text-align: center; /* Center text for all three */
+}
+
+footer {
+  background-color: rgba(150, 224, 230, 0.65); /* Lighter background for all three */
+  padding: 10px;
+  text-align: center; /* Center text for all three */
+}
+
+h1 {
+  font-size: 2.8em; /* Smaller heading size */
+}
+
+h2 {
+  color: rgba(174, 96, 217, 0.61);
+}
+
+nav ul {
+  list-style: none;
+  padding: 1;
+  margin: 14;
+  text-align: center
+}
+
+nav ul li {
+  display: inline-block;
+  margin-right: 61px; /* Less space between links */
+}
+
+section {
+  padding: 20px;
+}
+
+
