@@ -1,31 +1,31 @@
 body {
   margin: 0 auto; /* Center the body horizontally */
   font-family: Arial, sans-serif;
-  padding: 28px;
+  padding: 28;
     text-align: center
 }
 
 header {
   background-color: #770d0d; /* Lighter background for all three */
-  padding: 7px;
+  padding: 7;
   text-align: center; /* Center text for all three */
 }
 
 nav {
-  background-color: rgb(255, 255, 255); /* Lighter background for all three */
-  padding: 15px;
+  background-color: (255, 255, 255); /* Lighter background for all three */
+  padding: 15;
   text-align: left; /* Center text for all three */
 }
 
 
 
 h1 {
-  font-size: 2.8em; /* Smaller heading size */
-color: rgba(61, 190, 152, 0.64);
+  font-size: 2.8; /* Smaller heading size */
+color: (61, 190, 152, 0.64);
 }
 
 h2 {
-  color: rgba(174, 96, 217, 0.61);
+  color: (174, 96, 217, 0.61);
 }
 
 ul {
@@ -39,29 +39,29 @@ ul {
 
 nav ul li {
   display: inline-block;
-  margin-right: 37px; /* Less space between links */
+  margin-right: 37; /* Less space between links */
   text-align: center;
 }
 
 section {
-  padding: 21px;
+  padding: 21;
 }
 
 section#leftColumn{
     clear: left;
     float: left;
-    width: 38%;
+    width: 38;
  
 }
 
 section#rightColumn{
     float: right;
-    width: 50%;
+    width: 50;
 }
 
     
 footer {
-  background-color: rgba(255, 255, 255, 0.65); /* Lighter background for all three */
+  background-color: (255, 255, 255, 0.65); /* Lighter background for all three */
   padding: 22px;
   text-align: center; /* Center text for all three */
 }
